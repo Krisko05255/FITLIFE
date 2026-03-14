@@ -184,5 +184,73 @@ Consider these benefits to eating the same healthy food each day:
 * If you don't have to think about your food choices all the time, then the diet may feel less annoying and restrictive. You simply eat what is required and move on. You don't dwell on calories or fat.
 
 Dieting doesn't have to be a complex process. You don't have to experiment with complicated recipes or new foods every day of the week. It's fine to cook and eat the same foods, as long as they're healthy and you enjoy them. You can simplify your life with this method and lose weight at the same time.`
+  },
+  {
+    id: "7-benefits-of-regular-physical-activity",
+    title: "Exercise: 7 Benefits of Regular Physical Activity",
+    isPremium: false,
+    excerpt: "You know exercise is good for you, but do you know how good? From boosting your mood to improving your sex life, find out how exercise can improve your life.",
+    content: `You know exercise is good for you, but do you know how good? From boosting your mood to improving your sex life, find out how exercise can improve your life. Want to feel better, have more energy and even add years to your life? Just exercise.
+
+The health benefits of regular exercise and physical activity are hard to ignore. Everyone benefits from exercise, no matter their age, sex or physical ability.
+
+Need more convincing to get moving? Check out these seven ways that exercise can lead to a happier, healthier you.
+
+1. Exercise controls weight
+Exercise can help prevent excess weight gain or help you keep off lost weight. When you take part in physical activity, you burn calories. The more intense the activity, the more calories you burn.
+
+Regular trips to the gym are great, but don't worry if you can't find a large chunk of time to exercise every day. Any amount of activity is better than none. To gain the benefits of exercise, just get more active throughout your day. For example, take the stairs instead of the elevator or rev up your household chores. Consistency is key.
+
+2. Exercise combats health conditions and diseases
+Worried about heart disease? Hoping to prevent high blood pressure? No matter what your current weight is, being active boosts high-density lipoprotein (HDL) cholesterol, the \"good\" cholesterol, and it decreases unhealthy triglycerides. This one-two punch keeps your blood flowing smoothly, which lowers your risk of heart and blood vessel, called cardiovascular, diseases.
+
+Regular exercise helps prevent or manage many health problems and concerns, including:
+* Stroke.
+* Metabolic syndrome.
+* High blood pressure.
+* Type 2 diabetes.
+* Depression.
+* Anxiety.
+* Many types of cancer.
+* Arthritis.
+* Falls.
+
+It also can help improve cognitive function and helps lower the risk of death from all causes.
+
+3. Exercise improves mood
+Need an emotional lift? Or need to lower stress after a stressful day? A gym session or brisk walk can help. Physical activity stimulates many brain chemicals that may leave you feeling happier, more relaxed and less anxious.
+
+You also may feel better about your appearance and yourself when you exercise regularly, which can boost your confidence and improve your self-esteem.
+
+4. Exercise boosts energy
+Winded by grocery shopping or household chores? Regular physical activity can improve your muscle strength and boost your endurance.
+
+Exercise sends oxygen and nutrients to your tissues and helps your cardiovascular system work more efficiently. And when your heart and lung health improve, you have more energy to tackle daily chores.
+
+5. Exercise promotes better sleep
+Struggling to snooze? Regular physical activity can help you fall asleep faster, get better sleep and deepen your sleep. Just don't exercise too close to bedtime, or you may be too energized to go to sleep.
+
+6. Exercise puts the spark back into your sex life
+Do you feel too tired or too out of shape to enjoy physical intimacy? Regular physical activity can improve energy levels and give you more confidence about your physical appearance, which may boost your sex life.
+
+But there's even more to it than that. Regular physical activity may enhance arousal for women. And men who exercise regularly are less likely to have problems with erectile dysfunction than are men who don't exercise.
+
+7. Exercise can be fun — and social!
+Exercise and physical activity can be fun. They give you a chance to unwind, enjoy the outdoors or simply do activities that make you happy. Physical activity also can help you connect with family or friends in a fun social setting.
+
+So take a dance class, hit the hiking trails or join a soccer team. Find a physical activity you enjoy, and just do it. Bored? Try something new, or do something with friends or family.
+
+Exercise to feel better and have fun
+Exercise and physical activity are great ways to feel better, boost your health and have fun. For most healthy adults, the U.S. Department of Health and Human Services recommends these exercise guidelines:
+
+Aerobic activity. Get at least 150 minutes of moderate aerobic activity. Or get at least 75 minutes of vigorous aerobic activity a week. You also can get an equal combination of moderate and vigorous activity. Aim to spread out this exercise over a few days or more in a week.
+
+Strength training. Do strength training exercises for all major muscle groups at least two times a week. One set of each exercise is enough for health and fitness benefits. Use a weight or resistance level heavy enough to tire your muscles after about 12 to 15 repetitions.
+
+Moderate aerobic exercise includes activities such as brisk walking, biking, swimming and mowing the lawn.
+Vigorous aerobic exercise includes activities such as running, swimming laps, heavy yardwork and aerobic dancing.
+You can do strength training by using weight machines or free weights, your own body weight, heavy bags, or resistance bands. You also can use resistance paddles in the water or do activities such as rock climbing.
+
+Remember to check with a health care professional before starting a new exercise program, especially if you have any concerns about your fitness or haven't exercised for a long time.`
   }
 ];
