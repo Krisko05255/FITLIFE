@@ -7,6 +7,7 @@ import About from './pages/About';
 import Articles from './pages/Articles';
 import Premium from './pages/Premium';
 import ArticleDetail from './pages/ArticleDetail';
+import Tools from './pages/Tools';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <Route path="/articles" element={<Articles />} />
           <Route path="/premium" element={<Premium />} />
           <Route path="/articles/:id" element={<ArticleDetail />} />
+          <Route path="/tools" element={<Tools />} />
         </Routes>
       </main>
       <Footer />
